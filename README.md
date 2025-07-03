@@ -35,3 +35,9 @@ Cette expérience m’a sorti(e) de ma zone de confort et m’a donné la confia
 🎯 Je suis activement à la recherche d’un stage, d’un premier emploi, ou de collaborations pour continuer à évoluer et à grandir dans le domaine tech.
 
 📬 N'hésitez pas à me contacter si vous avez des conseils, des opportunités ou juste envie d’échanger !
+
+
+
+Auteur : Malak Medfai
+Bootcamp : GoMyCode – Parcours Développeur Logiciel
+Date : Juillet 2025.
